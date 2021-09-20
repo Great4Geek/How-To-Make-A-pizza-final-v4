@@ -1,0 +1,44 @@
+.header{
+    background-color : burlywood;
+    display: flex;
+    justify-content: center;
+	
+ }
+
+ .marginintrosentence{
+margin-left: 28%;
+
+ }
+
+ 
+ .caption1{
+    margin-left: 45%;
+    
+     }
+     
+.buttonrow{
+flex-direction: row;
+background-color: red;    
+         }
+         
+.flexrow{
+flex-direction: row  
+}
+
+.grid {
+    display: flex ;
+    flex-wrap : wrap;
+    justify-content: space-evenly;
+    
+     }
+
+.box{
+
+        border-radius: 20px;
+        background-color: blanchedalmond;
+    
+        width: 750px;
+        font-family: fantasy
+    
+     }
+    
